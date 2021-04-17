@@ -1,7 +1,7 @@
 mod pe_1;
 mod pe_2;
 // main does not use helper - do we really need it here?
-mod helper;
+mod fib;
 
 fn main() {
     println!("Project Euler - Welcome");
