@@ -1,5 +1,6 @@
 # ProjectEulerRust
 Project Euler stuff in Rust
+Created on 2021-04-17
 
 My attempts at learning Rust and GitHub.
 
